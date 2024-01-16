@@ -12,6 +12,7 @@ document.addEventListener("keypress", function () {
     let box=document.querySelector(".box");
     head.style.color="#8FFF49";
     box.classList.remove("red-box");
+    head.style.fontSize = '3vw';
     started = true;
     nextSequence();
   }
@@ -78,6 +79,7 @@ function checkAnswer(currentLevel) {
     highscore=Math.max(highscore,level);
     plevel=level;
     head.innerHTML = `Game Over!<br>High-Score:${highscore-1}<br> Current Score:${plevel-1}`;
+    head.style.fontSize = '2rem';
     head.style.color="red";
     let box=document.querySelector(".box");
     box.classList.add("red-box");

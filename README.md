@@ -32,9 +32,9 @@ We welcome contributions from all enthusiastic developers! Feel free to:
 ## Enjoy the game, and let the fun begin!
 ## Screen-Shots
 ### Starting the game
-![Image 1](resources/1.png)
+![Image 1](Resources/1.png)
 ### Game Over
-![Image 2](resources/2.png)
+![Image 2](Resources/2.png)
 
 ### Additional Resources
 

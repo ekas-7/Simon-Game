@@ -30,6 +30,11 @@ We welcome contributions from all enthusiastic developers! Feel free to:
 **Show us your skills!** Can you conquer the highest level of Simon? Share your gameplay videos and high scores on social media, tagging us with #simongame and #github.
 
 ## Enjoy the game, and let the fun begin!
+## Screen-Shots
+### Starting the game
+![Image 1](resources/1.png)
+### Game Over
+![Image 2](resources/2.png)
 
 ### Additional Resources
 
